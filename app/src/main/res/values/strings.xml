@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ToolsShop</string>
+    <string name="logo_shop">logo_shop</string>
+    
+    <string-array name="tools">
+        <item>Wkrętarki</item>
+        <item>Młotki</item>
+        <item>Kombinerki</item>
+    </string-array>
+</resources>

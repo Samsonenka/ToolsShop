@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">ToolsShop</string>
     <string name="logo_shop">logo_shop</string>
+    <string name="drill_logo">drill_logo</string>
 
     <string-array name="tools">
         <item>Wkrętarki</item>

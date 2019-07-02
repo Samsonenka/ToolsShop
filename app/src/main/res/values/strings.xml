@@ -8,7 +8,7 @@
         <item>Młotki</item>
         <item>Kombinerki</item>
     </string-array>
-    
+
     <string name="drill_makita_title">MAKITA CLX224</string>
     <string name="drill_dewalt_title">DeWALT DCD790</string>
     <string name="drill_bosch_title">BOSCH GSR 18–2-LI</string>

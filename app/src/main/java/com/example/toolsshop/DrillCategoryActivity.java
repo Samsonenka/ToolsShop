@@ -9,6 +9,8 @@ import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
+import com.example.toolsshop.models.Drill;
+
 import java.util.ArrayList;
 
 public class DrillCategoryActivity extends AppCompatActivity {

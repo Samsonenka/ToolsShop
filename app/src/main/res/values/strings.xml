@@ -54,4 +54,23 @@
         Czas ładowania 60 minut (100% naładowania akumulatora)
         Ciężar z akumulatorem 1,5 kg
     </string>
+
+    <string name="drill_jobi_title">MŁOTEK ŚLUSARSKI JOBI</string>
+    <string name="drill_fiberglass_title">MŁOTKI FIBERGLASS</string>
+
+    <string name="drill_jobi_info">
+        trzonek z włókna szklanego fiberglass
+        gumowa rękojeść
+        waga głowicy : 1500 g
+        waga młotka: 1820 g
+        długość całkowita: 38 cm
+    </string>
+
+    <string name="drill_fiberglass_info">
+        Trzonek z włókna szklanego fiberglass
+        Gumowa rękojeść
+        Waga głowicy : 600 g
+        Długość całkowita: 34 cm
+    </string>
+    <string name="logo_hammer">logo_hammer</string>
 </resources>

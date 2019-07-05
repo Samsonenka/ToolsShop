@@ -1,12 +1,12 @@
-package com.example.toolsshop;
+package com.example.toolsshop.models;
 
-public class Drill {
+public class Hammer {
 
     private String title;
     private String info;
     private int imgResID;
 
-    public Drill(String title, String info, int imgResID) {
+    public Hammer(String title, String info, int imgResID) {
         this.title = title;
         this.info = info;
         this.imgResID = imgResID;
@@ -22,10 +22,5 @@ public class Drill {
 
     public int getImgResID() {
         return imgResID;
-    }
-
-    @Override
-    public String toString() {
-        return title;
     }
 }

@@ -25,7 +25,7 @@ public class DrillDetailActivity extends AppCompatActivity {
 
         textViewTitle = findViewById(R.id.textViewTitle);
         textViewInfo = findViewById(R.id.textViewInfo);
-        imageViewDrill = findViewById(R.id.imageViewDrill);
+        imageViewDrill = findViewById(R.id.imageViewHammer);
 
         Intent intent = getIntent();
         if (intent.hasExtra("title") && intent.hasExtra("info") && intent.hasExtra("imgResID")){

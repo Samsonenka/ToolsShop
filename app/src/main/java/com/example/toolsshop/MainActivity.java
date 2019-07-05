@@ -8,6 +8,8 @@ import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ListView;
 
+import com.example.toolsshop.models.Hammer;
+
 public class MainActivity extends AppCompatActivity {
 
     private ListView listViewTools;
@@ -28,8 +30,12 @@ public class MainActivity extends AppCompatActivity {
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
                 switch (position){
                     case 0:
-                        Intent intent = new Intent(getApplicationContext(), DrillCategoryActivity.class);
-                        startActivity(intent);
+                        Intent intentDrill = new Intent(getApplicationContext(), DrillCategoryActivity.class);
+                        startActivity(intentDrill);
+                        break;
+                    case 1:
+                        Intent intentHammer = new Intent(getApplicationContext(), HammerCategoryActivity.class);
+                        startActivity(intentHammer);
                         break;
                 }
             }

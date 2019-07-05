@@ -23,4 +23,9 @@ public class Hammer {
     public int getImgResID() {
         return imgResID;
     }
+
+    @Override
+    public String toString() {
+        return title;
+    }
 }
